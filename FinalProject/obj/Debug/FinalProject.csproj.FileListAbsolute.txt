@@ -1,0 +1,11 @@
+D:\Baitap\C#new\FinalProject\FinalProject\FinalProject\bin\Debug\FinalProject.exe.config
+D:\Baitap\C#new\FinalProject\FinalProject\FinalProject\bin\Debug\FinalProject.exe
+D:\Baitap\C#new\FinalProject\FinalProject\FinalProject\bin\Debug\FinalProject.pdb
+D:\Baitap\C#new\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.AssemblyReference.cache
+D:\Baitap\C#new\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.SuggestedBindingRedirects.cache
+D:\Baitap\C#new\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.FormLogin.resources
+D:\Baitap\C#new\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.Properties.Resources.resources
+D:\Baitap\C#new\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.GenerateResource.cache
+D:\Baitap\C#new\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.CoreCompileInputs.cache
+D:\Baitap\C#new\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.exe
+D:\Baitap\C#new\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.pdb
