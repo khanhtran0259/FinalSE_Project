@@ -49,5 +49,13 @@ namespace FinalProject
             }
             conn.Close();
         }
+
+        private void txtPassword_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if (e.KeyChar.Equals(Convert.ToChar(13)))
+            {
+                btnLogin_Click(sender, e);
+            }
+        }
     }
 }

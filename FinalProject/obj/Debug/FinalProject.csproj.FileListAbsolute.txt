@@ -9,3 +9,9 @@ D:\Baitap\C#new\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.cs
 D:\Baitap\C#new\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.CoreCompileInputs.cache
 D:\Baitap\C#new\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.exe
 D:\Baitap\C#new\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.pdb
+D:\Baitap\C#new\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.MainForm.resources
+D:\Baitap\C#new\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.FormImport.resources
+D:\Baitap\C#new\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.Details.resources
+D:\Baitap\C#new\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.FormUser.resources
+D:\Baitap\C#new\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.FormExport.resources
+D:\Baitap\C#new\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.FormSatitiscal.resources
